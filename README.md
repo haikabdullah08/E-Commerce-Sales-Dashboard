@@ -12,5 +12,24 @@ The primary goal is to provide actionable insights into the e-commerce landscape
 4.DAX Query
 
 # Dashboard
- ![Image Alt](image_url). 
+ ![Image Alt](Screenshot 2025-01-01 132339.png) 
+ 
+# Dashboard Insights
+Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
+
+Monthly Trends: Sales and Profit
+
+Category-wise Analysis: Profits, Sales, and Sales%
+
+Sales by Geography: States and Regions
+
+Top & Bottom 5 Products Analysis
+
+Regoinal Sales Analysis
+
+# Business Performance Analysis
+The project aims to highlight crucial business metrics and trends via a Power BI dashboard, identifying areas for optimization and informed decision-making.
+# Conclusion
+This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.
+ 
 
