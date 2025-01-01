@@ -12,7 +12,7 @@ The primary goal is to provide actionable insights into the e-commerce landscape
 4.DAX Query
 
 # Dashboard
- ![Image Alt](Screenshot 2025-01-01 132339.png) 
+ ![Image Alt](https://github.com/haikabdullah08/E-Commerce-Sales-Dashboard/blob/803eb532181306f2eff0473f9842efa6f6e8fa43/Screenshot%202025-01-01%20132339.png) 
  
 # Dashboard Insights
 Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
